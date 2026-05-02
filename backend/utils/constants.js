@@ -1,0 +1,122 @@
+export const DEPARTMENTS = [
+  "Pediatrics",
+  "Orthopedics",
+  "Cardiology",
+  "Neurology",
+  "Oncology",
+  "Radiology",
+  "Physical Therapy",
+  "Dermatology",
+  "ENT",
+];
+
+export const SEEDED_DOCTORS = [
+  {
+    firstName: "Rashi",
+    lastName: "Bala",
+    doctorDepartment: "Pediatrics",
+    gender: "Female",
+  },
+  {
+    firstName: "Anushka",
+    lastName: "Verma",
+    doctorDepartment: "Pediatrics",
+    gender: "Female",
+  },
+  {
+    firstName: "Saurabh",
+    lastName: "Singh",
+    doctorDepartment: "Orthopedics",
+    gender: "Male",
+  },
+  {
+    firstName: "Ajay",
+    lastName: "Kumar",
+    doctorDepartment: "Orthopedics",
+    gender: "Male",
+  },
+  {
+    firstName: "Himanshu",
+    lastName: "Gupta",
+    doctorDepartment: "Cardiology",
+    gender: "Female",
+  },
+  {
+    firstName: "Nisha",
+    lastName: "Rao",
+    doctorDepartment: "Cardiology",
+    gender: "Male",
+  },
+  {
+    firstName: "Arshed",
+    lastName: "Ali",
+    doctorDepartment: "Neurology",
+    gender: "Male",
+  },
+  {
+    firstName: "Priya",
+    lastName: "Nair",
+    doctorDepartment: "Neurology",
+    gender: "Female",
+  },
+  {
+    firstName: "Neha",
+    lastName: "Sharma",
+    doctorDepartment: "Oncology",
+    gender: "Female",
+  },
+  {
+    firstName: "Kunal",
+    lastName: "Mehta",
+    doctorDepartment: "Oncology",
+    gender: "Male",
+  },
+  {
+    firstName: "Deepak",
+    lastName: "Joshi",
+    doctorDepartment: "Radiology",
+    gender: "Male",
+  },
+  {
+    firstName: "Pooja",
+    lastName: "Iyer",
+    doctorDepartment: "Radiology",
+    gender: "Female",
+  },
+  {
+    firstName: "Meera",
+    lastName: "Menon",
+    doctorDepartment: "Physical Therapy",
+    gender: "Female",
+  },
+  {
+    firstName: "Rakesh",
+    lastName: "Bansal",
+    doctorDepartment: "Physical Therapy",
+    gender: "Male",
+  },
+  {
+    firstName: "Kavita",
+    lastName: "Desai",
+    doctorDepartment: "Dermatology",
+    gender: "Female",
+  },
+  {
+    firstName: "Rahul",
+    lastName: "Kapoor",
+    doctorDepartment: "Dermatology",
+    gender: "Female",
+  },
+  {
+    firstName: "Vivek",
+    lastName: "Anand",
+    doctorDepartment: "ENT",
+    gender: "Male",
+  },
+  {
+    firstName: "Sneha",
+    lastName: "Pillai",
+    doctorDepartment: "ENT",
+    gender: "Female",
+  },
+];
